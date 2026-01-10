@@ -56,6 +56,9 @@ Any of these are fine, honestly anything that can save as a PNG in indexed palet
 
 ## Examples:
 
+### `0 - img2ans(1px = 1block - 80 cols = 80px).ini`
+![Stormtrooper Pixel Art (for small scale)](./example-stormtrooper-pixel.png)
+
 ### `55 - The Crow.ini`
 ![The Crow](./example-the_crow.png)
 
